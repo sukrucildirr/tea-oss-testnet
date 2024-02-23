@@ -1,0 +1,24 @@
+{
+  "name": "tea-oss-testnet",
+  "description": "tea oss testnet package",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://www.google.com/",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "tea",
+    "oss",
+    "testnet",
+    "package"
+  ],
+  "author": "sukrucildirr",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
